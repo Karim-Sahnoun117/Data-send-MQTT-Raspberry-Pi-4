@@ -41,7 +41,7 @@ This project is designed to acquire temperature and humidity data using an AHT10
 
 4. **Run the shell script:**
 
-   ./Project_exec
+   ./init_aht10 &execute py
 
 
 ## Contributing
